@@ -5,6 +5,6 @@ public class Objective3Lab3 {
     int third = 1 + (int)(Math.random() * 6);
     int total = first + second + third;
 
-    System.out.println(first + "+" + second + "+" + third + "=" + total);
+    System.out.println(first + " + " + second + " + " + third + " = " + total);
   }
 }
