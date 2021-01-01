@@ -17,7 +17,7 @@ public class Objective4Lab2 {
     System.out.println("Please enter the third decimal number you would like to add.");
     double dub3 = keyboard.nextDouble();
     double sum2 = (dub1 + dub2 + dub3);
-    System.out.println("The sum of " + num1 + " " + num2 + " " + num3 + " " + "=" + " " + sum1);
-    System.out.println("The sum of " + dub1 + " " + dub2 + " " + dub3 + " " + "=" + " " + sum2);
+    System.out.println("The sum of " + num1 + " " + "+" + " " + num2 + " " + "+" + " " + num3 + " " + "=" + " " + sum1);
+    System.out.println("The sum of " + dub1 + " " + "+" + " " + dub2 + " " + "+" + " " + dub3 + " " + "=" + " " + sum2);
   }
 }
